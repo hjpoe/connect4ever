@@ -31,10 +31,8 @@
 ## 1) March 22
   - Dennis: research the deeplearning4j
     
-  - Ian
-    // Research the Torch / PyTorch machine learning framework
-  - Harriet
-    // stuff i will do
+  - Ian: Research the Torch / PyTorch machine learning framework
+  - Harriet: research the TenserFlow machine learning framework
   - Joey
     // stuff i will do
     
